@@ -1,0 +1,383 @@
+﻿Sex,Race,Age,Age_group,Weight,Weight_group,Cholesterol
+Female,Black,49.00,40 - 49,236.00,201 lbs and heavier,225.00
+Female,Caucasian,58.00,50 - 59,226.00,201 lbs and heavier,307.00
+Male,Other,55.00,50 - 59,202.00,201 lbs and heavier,248.00
+Male,Caucasian,46.00,40 - 49,205.00,201 lbs and heavier,180.00
+Male,Caucasian,51.00,50 - 59,235.00,201 lbs and heavier,265.00
+Male,Black,40.00,40 - 49,214.00,201 lbs and heavier,199.00
+Male,Caucasian,40.00,40 - 49,264.00,201 lbs and heavier,190.00
+Male,Black,50.00,50 - 59,263.00,201 lbs and heavier,204.00
+Male,Caucasian,43.00,40 - 49,325.00,201 lbs and heavier,199.00
+Male,Caucasian,75.00,60 and older,210.00,201 lbs and heavier,218.00
+Male,Caucasian,34.00,30 - 39,210.00,201 lbs and heavier,224.00
+Male,Black,66.00,60 and older,210.00,201 lbs and heavier,292.00
+Male,Caucasian,63.00,60 and older,201.00,201 lbs and heavier,222.00
+Male,Caucasian,45.00,40 - 49,204.00,201 lbs and heavier,198.00
+Male,Black,26.00,19 - 29,259.00,201 lbs and heavier,181.00
+Male,Caucasian,62.00,60 and older,290.00,201 lbs and heavier,129.00
+Male,Hispanic,36.00,30 - 39,255.00,201 lbs and heavier,223.00
+Male,Hispanic,47.00,40 - 49,260.00,201 lbs and heavier,211.00
+Male,Caucasian,23.00,19 - 29,277.00,201 lbs and heavier,219.00
+Male,Black,40.00,40 - 49,270.00,201 lbs and heavier,219.00
+Male,Black,63.00,60 and older,223.00,201 lbs and heavier,218.00
+Male,Black,43.00,40 - 49,216.00,201 lbs and heavier,254.00
+Male,Black,45.00,40 - 49,218.00,201 lbs and heavier,229.00
+Male,Caucasian,50.00,50 - 59,228.00,201 lbs and heavier,197.00
+Male,Caucasian,27.00,19 - 29,289.00,201 lbs and heavier,205.00
+Male,Hispanic,42.00,40 - 49,235.00,201 lbs and heavier,199.00
+Male,Caucasian,37.00,30 - 39,262.00,201 lbs and heavier,205.00
+Male,Black,60.00,60 and older,224.00,201 lbs and heavier,207.00
+Male,Hispanic,55.00,50 - 59,219.00,201 lbs and heavier,225.00
+Male,Caucasian,70.00,60 and older,220.00,201 lbs and heavier,233.00
+Male,Caucasian,49.00,40 - 49,205.00,201 lbs and heavier,305.00
+Male,Other,61.00,60 and older,220.00,201 lbs and heavier,224.00
+Male,Black,32.00,30 - 39,212.00,201 lbs and heavier,255.00
+Male,Caucasian,26.00,19 - 29,227.00,201 lbs and heavier,230.00
+Male,Caucasian,71.00,60 and older,244.00,201 lbs and heavier,260.00
+Male,Caucasian,64.00,60 and older,225.00,201 lbs and heavier,234.00
+Male,Caucasian,33.00,30 - 39,308.00,201 lbs and heavier,299.00
+Male,Black,51.00,50 - 59,282.00,201 lbs and heavier,212.00
+Male,Black,58.00,50 - 59,215.00,201 lbs and heavier,404.00
+Male,Hispanic,44.00,40 - 49,201.00,201 lbs and heavier,277.00
+Male,Caucasian,31.00,30 - 39,211.00,201 lbs and heavier,220.00
+Male,Hispanic,28.00,19 - 29,225.00,201 lbs and heavier,235.00
+Male,Black,38.00,30 - 39,248.00,201 lbs and heavier,242.00
+Male,Black,37.00,30 - 39,212.00,201 lbs and heavier,202.00
+Male,Black,30.00,30 - 39,257.00,201 lbs and heavier,227.00
+Male,Caucasian,80.00,60 and older,212.00,201 lbs and heavier,214.00
+Male,Black,38.00,30 - 39,222.00,201 lbs and heavier,210.00
+Female,Black,46.00,40 - 49,91.00,100 lbs and lighter,168.00
+Female,Hispanic,41.00,40 - 49,88.00,100 lbs and lighter,203.00
+Female,Black,91.00,60 and older,97.00,100 lbs and lighter,147.00
+Female,Black,19.00,19 - 29,89.00,100 lbs and lighter,170.00
+Female,Caucasian,36.00,30 - 39,95.00,100 lbs and lighter,178.00
+Female,Black,48.00,40 - 49,91.00,100 lbs and lighter,129.00
+Female,Black,66.00,60 and older,91.00,100 lbs and lighter,177.00
+Female,Caucasian,33.00,30 - 39,88.00,100 lbs and lighter,154.00
+Female,Black,27.00,19 - 29,89.00,100 lbs and lighter,135.00
+Female,Other,68.00,60 and older,89.00,100 lbs and lighter,133.00
+Female,Caucasian,51.00,50 - 59,80.00,100 lbs and lighter,160.00
+Female,Black,20.00,19 - 29,85.00,100 lbs and lighter,157.00
+Female,Black,29.00,19 - 29,93.00,100 lbs and lighter,156.00
+Female,Other,30.00,30 - 39,95.00,100 lbs and lighter,155.00
+Female,Caucasian,66.00,60 and older,100.00,100 lbs and lighter,158.00
+Female,Black,52.00,50 - 59,90.00,100 lbs and lighter,200.00
+Female,Black,43.00,40 - 49,90.00,100 lbs and lighter,188.00
+Female,Hispanic,89.00,60 and older,85.00,100 lbs and lighter,167.00
+Female,Caucasian,36.00,30 - 39,96.00,100 lbs and lighter,110.00
+Female,Black,76.00,60 and older,92.00,100 lbs and lighter,174.00
+Female,Caucasian,48.00,40 - 49,90.00,100 lbs and lighter,179.00
+Female,Caucasian,55.00,50 - 59,84.00,100 lbs and lighter,125.00
+Female,Black,78.00,60 and older,79.00,100 lbs and lighter,129.00
+Female,Black,68.00,60 and older,100.00,100 lbs and lighter,120.00
+Female,Caucasian,31.00,30 - 39,90.00,100 lbs and lighter,156.00
+Female,Black,45.00,40 - 49,85.00,100 lbs and lighter,184.00
+Female,Hispanic,29.00,19 - 29,90.00,100 lbs and lighter,188.00
+Male,Black,29.00,19 - 29,99.00,100 lbs and lighter,171.00
+Female,Caucasian,72.00,60 and older,107.00,101 - 125,200.00
+Female,Black,37.00,30 - 39,125.00,101 - 125,193.00
+Female,Caucasian,92.00,60 and older,110.00,101 - 125,142.00
+Female,Other,58.00,50 - 59,124.00,101 - 125,183.00
+Female,Caucasian,65.00,60 and older,121.00,101 - 125,178.00
+Female,Black,57.00,50 - 59,120.00,101 - 125,198.00
+Female,Black,36.00,30 - 39,120.00,101 - 125,188.00
+Female,Black,56.00,50 - 59,121.00,101 - 125,135.00
+Female,Black,48.00,40 - 49,116.00,101 - 125,174.00
+Female,Other,50.00,50 - 59,123.00,101 - 125,182.00
+Female,Caucasian,51.00,50 - 59,115.00,101 - 125,167.00
+Female,Caucasian,79.00,60 and older,104.00,101 - 125,174.00
+Female,Caucasian,55.00,50 - 59,110.00,101 - 125,199.00
+Female,Caucasian,50.00,50 - 59,110.00,101 - 125,140.00
+Female,Hispanic,41.00,40 - 49,123.00,101 - 125,144.00
+Female,Caucasian,27.00,19 - 29,115.00,101 - 125,133.00
+Female,Caucasian,66.00,60 and older,116.00,101 - 125,156.00
+Female,Black,32.00,30 - 39,121.00,101 - 125,155.00
+Female,Caucasian,61.00,60 and older,122.00,101 - 125,150.00
+Female,Black,27.00,19 - 29,111.00,101 - 125,180.00
+Female,Caucasian,22.00,19 - 29,118.00,101 - 125,158.00
+Female,Caucasian,52.00,50 - 59,123.00,101 - 125,184.00
+Female,Caucasian,43.00,40 - 49,122.00,101 - 125,138.00
+Female,Caucasian,37.00,30 - 39,118.00,101 - 125,200.00
+Female,Hispanic,51.00,50 - 59,124.00,101 - 125,176.00
+Female,Black,52.00,50 - 59,109.00,101 - 125,187.00
+Female,Black,22.00,19 - 29,107.00,101 - 125,173.00
+Female,Caucasian,52.00,50 - 59,112.00,101 - 125,128.00
+Female,Black,53.00,50 - 59,115.00,101 - 125,196.00
+Female,Hispanic,21.00,19 - 29,112.00,101 - 125,200.00
+Female,Caucasian,43.00,40 - 49,110.00,101 - 125,100.00
+Female,Caucasian,45.00,40 - 49,121.00,101 - 125,149.00
+Female,Other,20.00,19 - 29,115.00,101 - 125,112.00
+Female,Caucasian,31.00,30 - 39,115.00,101 - 125,200.00
+Female,Caucasian,39.00,30 - 39,111.00,101 - 125,147.00
+Female,Caucasian,54.00,50 - 59,108.00,101 - 125,172.00
+Female,Hispanic,45.00,40 - 49,117.00,101 - 125,191.00
+Female,Caucasian,62.00,60 and older,111.00,101 - 125,97.00
+Female,Black,61.00,60 and older,114.00,101 - 125,144.00
+Female,Caucasian,71.00,60 and older,125.00,101 - 125,129.00
+Female,Caucasian,37.00,30 - 39,115.00,101 - 125,137.00
+Female,Hispanic,31.00,30 - 39,123.00,101 - 125,182.00
+Female,Caucasian,26.00,19 - 29,120.00,101 - 125,169.00
+Female,Caucasian,40.00,40 - 49,116.00,101 - 125,153.00
+Female,Caucasian,52.00,50 - 59,117.00,101 - 125,211.00
+Female,Caucasian,25.00,19 - 29,124.00,101 - 125,145.00
+Female,Caucasian,37.00,30 - 39,106.00,101 - 125,159.00
+Male,Hispanic,41.00,40 - 49,110.00,101 - 125,128.00
+Male,Caucasian,83.00,60 and older,125.00,101 - 125,178.00
+Male,Caucasian,76.00,60 and older,105.00,101 - 125,134.00
+Male,Hispanic,47.00,40 - 49,123.00,101 - 125,156.00
+Male,Hispanic,40.00,40 - 49,105.00,101 - 125,194.00
+Male,Caucasian,60.00,60 and older,121.00,101 - 125,174.00
+Male,Caucasian,67.00,60 and older,119.00,101 - 125,179.00
+Male,Caucasian,24.00,19 - 29,113.00,101 - 125,199.00
+Male,Caucasian,25.00,19 - 29,118.00,101 - 125,174.00
+Male,Other,68.00,60 and older,124.00,101 - 125,207.00
+Male,Caucasian,22.00,19 - 29,114.00,101 - 125,178.00
+Male,Caucasian,20.00,19 - 29,114.00,101 - 125,239.00
+Male,Caucasian,60.00,60 and older,123.00,101 - 125,188.00
+Female,Caucasian,33.00,30 - 39,127.00,126 - 150,200.00
+Female,Caucasian,35.00,30 - 39,129.00,126 - 150,199.00
+Female,Caucasian,40.00,40 - 49,150.00,126 - 150,144.00
+Female,Caucasian,38.00,30 - 39,139.00,126 - 150,190.00
+Female,Caucasian,64.00,60 and older,129.00,126 - 150,113.00
+Female,Caucasian,50.00,50 - 59,150.00,126 - 150,177.00
+Female,Caucasian,79.00,60 and older,135.00,126 - 150,130.00
+Female,Hispanic,34.00,30 - 39,140.00,126 - 150,210.00
+Female,Hispanic,63.00,60 and older,128.00,126 - 150,111.00
+Female,Other,21.00,19 - 29,139.00,126 - 150,188.00
+Female,Caucasian,44.00,40 - 49,130.00,126 - 150,138.00
+Female,Caucasian,60.00,60 and older,137.00,126 - 150,197.00
+Female,Black,82.00,60 and older,133.00,126 - 150,216.00
+Female,Hispanic,81.00,60 and older,128.00,126 - 150,154.00
+Female,Hispanic,67.00,60 and older,137.00,126 - 150,194.00
+Female,Caucasian,23.00,19 - 29,150.00,126 - 150,177.00
+Female,Black,42.00,40 - 49,135.00,126 - 150,16.00
+Female,Caucasian,68.00,60 and older,128.00,126 - 150,164.00
+Female,Hispanic,26.00,19 - 29,144.00,126 - 150,158.00
+Female,Black,31.00,30 - 39,130.00,126 - 150,153.00
+Female,Caucasian,44.00,40 - 49,138.00,126 - 150,125.00
+Female,Caucasian,48.00,40 - 49,140.00,126 - 150,166.00
+Female,Black,63.00,60 and older,131.00,126 - 150,188.00
+Female,Hispanic,43.00,40 - 49,145.00,126 - 150,146.00
+Female,Caucasian,36.00,30 - 39,149.00,126 - 150,133.00
+Female,Caucasian,57.00,50 - 59,134.00,126 - 150,177.00
+Female,Caucasian,44.00,40 - 49,129.00,126 - 150,135.00
+Female,Other,28.00,19 - 29,150.00,126 - 150,181.00
+Female,Caucasian,35.00,30 - 39,149.00,126 - 150,137.00
+Female,Black,37.00,30 - 39,130.00,126 - 150,181.00
+Female,Caucasian,59.00,50 - 59,139.00,126 - 150,168.00
+Female,Other,29.00,19 - 29,137.00,126 - 150,176.00
+Female,Black,60.00,60 and older,126.00,126 - 150,165.00
+Female,Black,40.00,40 - 49,135.00,126 - 150,163.00
+Female,Caucasian,20.00,19 - 29,129.00,126 - 150,157.00
+Female,Caucasian,38.00,30 - 39,145.00,126 - 150,170.00
+Female,Black,42.00,40 - 49,144.00,126 - 150,153.00
+Female,Black,61.00,60 and older,144.00,126 - 150,165.00
+Female,Caucasian,36.00,30 - 39,131.00,126 - 150,145.00
+Female,Hispanic,48.00,40 - 49,143.00,126 - 150,166.00
+Female,Black,61.00,60 and older,139.00,126 - 150,141.00
+Female,Caucasian,67.00,60 and older,148.00,126 - 150,206.00
+Female,Caucasian,54.00,50 - 59,140.00,126 - 150,114.00
+Female,Hispanic,47.00,40 - 49,126.00,126 - 150,164.00
+Female,Caucasian,53.00,50 - 59,144.00,126 - 150,137.00
+Female,Black,41.00,40 - 49,126.00,126 - 150,180.00
+Female,Other,23.00,19 - 29,135.00,126 - 150,171.00
+Female,Caucasian,59.00,50 - 59,140.00,126 - 150,103.00
+Female,Hispanic,36.00,30 - 39,133.00,126 - 150,189.00
+Female,Caucasian,62.00,60 and older,130.00,126 - 150,117.00
+Female,Caucasian,43.00,40 - 49,149.00,126 - 150,130.00
+Female,Black,65.00,60 and older,145.00,126 - 150,208.00
+Female,Black,64.00,60 and older,137.00,126 - 150,207.00
+Female,Caucasian,34.00,30 - 39,134.00,126 - 150,188.00
+Female,Black,30.00,30 - 39,135.00,126 - 150,156.00
+Female,Black,54.00,50 - 59,145.00,126 - 150,138.00
+Female,Other,29.00,19 - 29,140.00,126 - 150,225.00
+Female,Black,27.00,19 - 29,149.00,126 - 150,150.00
+Female,Caucasian,59.00,50 - 59,146.00,126 - 150,210.00
+Female,Caucasian,78.00,60 and older,142.00,126 - 150,214.00
+Female,Black,29.00,19 - 29,150.00,126 - 150,121.00
+Female,Caucasian,78.00,60 and older,130.00,126 - 150,189.00
+Female,Caucasian,50.00,50 - 59,140.00,126 - 150,146.00
+Female,Caucasian,60.00,60 and older,133.00,126 - 150,150.00
+Female,Caucasian,35.00,30 - 39,140.00,126 - 150,150.00
+Female,Caucasian,74.00,60 and older,135.00,126 - 150,169.00
+Female,Black,72.00,60 and older,150.00,126 - 150,177.00
+Female,Caucasian,21.00,19 - 29,133.00,126 - 150,168.00
+Female,Black,63.00,60 and older,139.00,126 - 150,191.00
+Female,Black,53.00,50 - 59,149.00,126 - 150,144.00
+Female,Hispanic,20.00,19 - 29,140.00,126 - 150,190.00
+Female,Caucasian,30.00,30 - 39,135.00,126 - 150,134.00
+Female,Hispanic,53.00,50 - 59,143.00,126 - 150,164.00
+Male,Caucasian,43.00,40 - 49,145.00,126 - 150,191.00
+Male,Black,57.00,50 - 59,145.00,126 - 150,194.00
+Male,Caucasian,76.00,60 and older,143.00,126 - 150,173.00
+Male,Caucasian,40.00,40 - 49,130.00,126 - 150,158.00
+Male,Black,31.00,30 - 39,145.00,126 - 150,163.00
+Male,Caucasian,28.00,19 - 29,130.00,126 - 150,176.00
+Male,Caucasian,47.00,40 - 49,142.00,126 - 150,188.00
+Male,Caucasian,50.00,50 - 59,147.00,126 - 150,222.00
+Male,Black,38.00,30 - 39,138.00,126 - 150,347.00
+Male,Hispanic,60.00,60 and older,128.00,126 - 150,164.00
+Male,Caucasian,59.00,50 - 59,138.00,126 - 150,158.00
+Male,Other,30.00,30 - 39,143.00,126 - 150,115.00
+Male,Caucasian,38.00,30 - 39,145.00,126 - 150,204.00
+Male,Hispanic,39.00,30 - 39,144.00,126 - 150,192.00
+Male,Black,28.00,19 - 29,126.00,126 - 150,201.00
+Male,Caucasian,41.00,40 - 49,139.00,126 - 150,244.00
+Male,Black,60.00,60 and older,134.00,126 - 150,245.00
+Male,Black,42.00,40 - 49,141.00,126 - 150,207.00
+Male,Black,19.00,19 - 29,135.00,126 - 150,184.00
+Male,Caucasian,20.00,19 - 29,141.00,126 - 150,184.00
+Male,Black,26.00,19 - 29,130.00,126 - 150,307.00
+Male,Caucasian,54.00,50 - 59,129.00,126 - 150,178.00
+Male,Black,78.00,60 and older,145.00,126 - 150,200.00
+Female,Caucasian,34.00,30 - 39,160.00,151 - 175,150.00
+Female,Hispanic,30.00,30 - 39,161.00,151 - 175,193.00
+Female,Caucasian,62.00,60 and older,166.00,151 - 175,207.00
+Female,Hispanic,66.00,60 and older,155.00,151 - 175,180.00
+Female,Other,37.00,30 - 39,166.00,151 - 175,148.00
+Female,Caucasian,40.00,40 - 49,159.00,151 - 175,178.00
+Female,Black,36.00,30 - 39,162.00,151 - 175,168.00
+Female,Other,65.00,60 and older,157.00,151 - 175,180.00
+Female,Black,23.00,19 - 29,170.00,151 - 175,148.00
+Female,Hispanic,67.00,60 and older,168.00,151 - 175,134.00
+Female,Caucasian,28.00,19 - 29,170.00,151 - 175,122.00
+Female,Black,37.00,30 - 39,173.00,151 - 175,202.00
+Female,Caucasian,28.00,19 - 29,174.00,151 - 175,201.00
+Female,Black,31.00,30 - 39,170.00,151 - 175,158.00
+Female,Black,47.00,40 - 49,165.00,151 - 175,230.00
+Female,Black,59.00,50 - 59,157.00,151 - 175,169.00
+Female,Caucasian,40.00,40 - 49,174.00,151 - 175,168.00
+Female,Black,75.00,60 and older,174.00,151 - 175,108.00
+Female,Caucasian,55.00,50 - 59,156.00,151 - 175,198.00
+Female,Caucasian,38.00,30 - 39,151.00,151 - 175,180.00
+Female,Hispanic,63.00,60 and older,151.00,151 - 175,97.00
+Female,Caucasian,76.00,60 and older,158.00,151 - 175,193.00
+Female,Caucasian,56.00,50 - 59,153.00,151 - 175,125.00
+Female,Caucasian,32.00,30 - 39,170.00,151 - 175,240.00
+Female,Black,31.00,30 - 39,160.00,151 - 175,174.00
+Female,Other,30.00,30 - 39,160.00,151 - 175,227.00
+Female,Caucasian,65.00,60 and older,152.00,151 - 175,228.00
+Female,Black,40.00,40 - 49,175.00,151 - 175,210.00
+Female,Caucasian,51.00,50 - 59,170.00,151 - 175,222.00
+Female,Black,36.00,30 - 39,153.00,151 - 175,211.00
+Female,Other,73.00,60 and older,153.00,151 - 175,171.00
+Female,Black,49.00,40 - 49,151.00,151 - 175,125.00
+Female,Caucasian,56.00,50 - 59,167.00,151 - 175,201.00
+Female,Caucasian,60.00,60 and older,156.00,151 - 175,171.00
+Female,Caucasian,50.00,50 - 59,153.00,151 - 175,205.00
+Female,Caucasian,60.00,60 and older,166.00,151 - 175,172.00
+Female,Hispanic,43.00,40 - 49,151.00,151 - 175,154.00
+Female,Black,40.00,40 - 49,170.00,151 - 175,111.00
+Female,Caucasian,27.00,19 - 29,155.00,151 - 175,148.00
+Female,Black,66.00,60 and older,159.00,151 - 175,185.00
+Female,Caucasian,37.00,30 - 39,165.00,151 - 175,114.00
+Female,Hispanic,61.00,60 and older,169.00,151 - 175,143.00
+Female,Hispanic,36.00,30 - 39,155.00,151 - 175,155.00
+Female,Black,41.00,40 - 49,161.00,151 - 175,186.00
+Female,Hispanic,36.00,30 - 39,175.00,151 - 175,145.00
+Female,Caucasian,38.00,30 - 39,175.00,151 - 175,190.00
+Female,Black,41.00,40 - 49,153.00,151 - 175,158.00
+Female,Black,23.00,19 - 29,153.00,151 - 175,184.00
+Female,Hispanic,43.00,40 - 49,168.00,151 - 175,164.00
+Female,Other,25.00,19 - 29,155.00,151 - 175,217.00
+Female,Caucasian,52.00,50 - 59,168.00,151 - 175,159.00
+Female,Black,55.00,50 - 59,172.00,151 - 175,250.00
+Female,Caucasian,84.00,60 and older,162.00,151 - 175,182.00
+Female,Black,33.00,30 - 39,156.00,151 - 175,186.00
+Male,Hispanic,37.00,30 - 39,170.00,151 - 175,200.00
+Male,Other,45.00,40 - 49,166.00,151 - 175,200.00
+Male,Black,27.00,19 - 29,170.00,151 - 175,199.00
+Male,Black,22.00,19 - 29,160.00,151 - 175,186.00
+Male,Caucasian,52.00,50 - 59,170.00,151 - 175,234.00
+Male,Hispanic,76.00,60 and older,154.00,151 - 175,190.00
+Male,Black,20.00,19 - 29,161.00,151 - 175,194.00
+Male,Black,41.00,40 - 49,154.00,151 - 175,196.00
+Male,Black,35.00,30 - 39,169.00,151 - 175,188.00
+Male,Caucasian,21.00,19 - 29,158.00,151 - 175,159.00
+Male,Black,50.00,50 - 59,172.00,151 - 175,174.00
+Male,Other,40.00,40 - 49,153.00,151 - 175,181.00
+Male,Black,21.00,19 - 29,155.00,151 - 175,255.00
+Male,Black,42.00,40 - 49,156.00,151 - 175,254.00
+Male,Hispanic,80.00,60 and older,162.00,151 - 175,143.00
+Male,Black,54.00,50 - 59,165.00,151 - 175,196.00
+Male,Other,45.00,40 - 49,167.00,151 - 175,179.00
+Male,Black,71.00,60 and older,165.00,151 - 175,208.00
+Male,Caucasian,63.00,60 and older,175.00,151 - 175,170.00
+Male,Caucasian,59.00,50 - 59,172.00,151 - 175,195.00
+Male,Hispanic,23.00,19 - 29,164.00,151 - 175,230.00
+Male,Black,33.00,30 - 39,170.00,151 - 175,191.00
+Male,Caucasian,52.00,50 - 59,159.00,151 - 175,181.00
+Male,Hispanic,41.00,40 - 49,160.00,151 - 175,205.00
+Male,Black,43.00,40 - 49,163.00,151 - 175,198.00
+Male,Caucasian,71.00,60 and older,171.00,151 - 175,162.00
+Male,Caucasian,72.00,60 and older,167.00,151 - 175,202.00
+Male,Other,82.00,60 and older,170.00,151 - 175,244.00
+Male,Caucasian,25.00,19 - 29,162.00,151 - 175,159.00
+Male,Black,73.00,60 and older,174.00,151 - 175,188.00
+Male,Other,63.00,60 and older,166.00,151 - 175,216.00
+Male,Caucasian,38.00,30 - 39,167.00,151 - 175,189.00
+Male,Caucasian,56.00,50 - 59,159.00,151 - 175,150.00
+Male,Hispanic,26.00,19 - 29,174.00,151 - 175,200.00
+Male,Hispanic,33.00,30 - 39,163.00,151 - 175,157.00
+Male,Black,34.00,30 - 39,165.00,151 - 175,194.00
+Male,Other,28.00,19 - 29,154.00,151 - 175,255.00
+Male,Other,44.00,40 - 49,157.00,151 - 175,144.00
+Female,Caucasian,70.00,60 and older,184.00,176 - 200,161.00
+Female,Hispanic,22.00,19 - 29,193.00,176 - 200,101.00
+Female,Caucasian,27.00,19 - 29,180.00,176 - 200,150.00
+Female,Caucasian,27.00,19 - 29,179.00,176 - 200,192.00
+Female,Caucasian,64.00,60 and older,197.00,176 - 200,141.00
+Female,Black,43.00,40 - 49,180.00,176 - 200,152.00
+Female,Caucasian,40.00,40 - 49,192.00,176 - 200,284.00
+Female,Black,29.00,19 - 29,188.00,176 - 200,136.00
+Female,Hispanic,47.00,40 - 49,200.00,176 - 200,205.00
+Female,Caucasian,20.00,19 - 29,177.00,176 - 200,225.00
+Female,Other,34.00,30 - 39,189.00,176 - 200,202.00
+Female,Caucasian,31.00,30 - 39,197.00,176 - 200,144.00
+Female,Black,55.00,50 - 59,193.00,176 - 200,128.00
+Female,Caucasian,50.00,50 - 59,185.00,176 - 200,184.00
+Female,Hispanic,58.00,50 - 59,190.00,176 - 200,242.00
+Female,Black,21.00,19 - 29,190.00,176 - 200,180.00
+Female,Black,53.00,50 - 59,186.00,176 - 200,127.00
+Female,Hispanic,63.00,60 and older,180.00,176 - 200,144.00
+Female,Caucasian,58.00,50 - 59,181.00,176 - 200,161.00
+Male,Black,38.00,30 - 39,195.00,176 - 200,195.00
+Male,Caucasian,36.00,30 - 39,183.00,176 - 200,177.00
+Male,Caucasian,62.00,60 and older,180.00,176 - 200,215.00
+Male,Caucasian,74.00,60 and older,183.00,176 - 200,182.00
+Male,Caucasian,46.00,40 - 49,183.00,176 - 200,182.00
+Male,Black,28.00,19 - 29,200.00,176 - 200,225.00
+Male,Black,58.00,50 - 59,177.00,176 - 200,204.00
+Male,Other,42.00,40 - 49,186.00,176 - 200,228.00
+Male,Other,41.00,40 - 49,184.00,176 - 200,184.00
+Male,Caucasian,63.00,60 and older,200.00,176 - 200,214.00
+Male,Caucasian,72.00,60 and older,180.00,176 - 200,174.00
+Male,Hispanic,20.00,19 - 29,187.00,176 - 200,185.00
+Male,Caucasian,46.00,40 - 49,179.00,176 - 200,236.00
+Male,Caucasian,41.00,40 - 49,188.00,176 - 200,151.00
+Male,Caucasian,65.00,60 and older,181.00,176 - 200,199.00
+Male,Caucasian,30.00,30 - 39,180.00,176 - 200,140.00
+Male,Caucasian,45.00,40 - 49,190.00,176 - 200,201.00
+Male,Caucasian,53.00,50 - 59,182.00,176 - 200,204.00
+Male,Black,35.00,30 - 39,189.00,176 - 200,169.00
+Male,Caucasian,32.00,30 - 39,179.00,176 - 200,215.00
+Male,Black,59.00,50 - 59,177.00,176 - 200,179.00
+Male,Other,41.00,40 - 49,197.00,176 - 200,151.00
+Male,Caucasian,64.00,60 and older,183.00,176 - 200,155.00
+Male,Hispanic,70.00,60 and older,178.00,176 - 200,269.00
+Male,Caucasian,61.00,60 and older,191.00,176 - 200,142.00
+Male,Black,47.00,40 - 49,186.00,176 - 200,194.00
+Male,Caucasian,49.00,40 - 49,189.00,176 - 200,228.00
+Male,Caucasian,65.00,60 and older,197.00,176 - 200,173.00
+Male,Caucasian,59.00,50 - 59,189.00,176 - 200,255.00
+Male,Black,63.00,60 and older,179.00,176 - 200,204.00
+Male,Black,40.00,40 - 49,179.00,176 - 200,198.00
+Male,Caucasian,48.00,40 - 49,196.00,176 - 200,203.00
+Male,Caucasian,69.00,60 and older,179.00,176 - 200,166.00
+Male,Black,70.00,60 and older,200.00,176 - 200,180.00
+Male,Caucasian,23.00,19 - 29,185.00,176 - 200,306.00
+Male,Hispanic,40.00,40 - 49,187.00,176 - 200,219.00
+Male,Hispanic,66.00,60 and older,185.00,176 - 200,235.00
+Male,Black,74.00,60 and older,184.00,176 - 200,337.00
+Male,Caucasian,20.00,19 - 29,187.00,176 - 200,209.00
+Male,Black,42.00,40 - 49,185.00,176 - 200,179.00

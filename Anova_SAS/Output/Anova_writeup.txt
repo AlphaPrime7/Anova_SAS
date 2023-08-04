@@ -1,0 +1,2 @@
+Write-Up:
+The difference in cholesterol levels between our weight classes was statistically significant F(5,376) (dfb,dfw) = 21.27, p(F<=f) = 9.68 * 10-19. The effect size (Omega squared) was calculated as 0.21 which is considered a large effect size. In summary our results revealed a significant difference (of large effect) between our weight levels. Post-hoc analysis revealed that the 176-200Ibs and >201Ibs levels differed significantly from the other levels postulating that at >176Ibs cholesterol levels rise significantly.
